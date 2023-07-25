@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mansi2402/react-cart.git/static/css/main.7750b40d.css",
-    "main.js": "/mansi2402/react-cart.git/static/js/main.f84cad8b.js",
-    "index.html": "/mansi2402/react-cart.git/index.html",
-    "main.7750b40d.css.map": "/mansi2402/react-cart.git/static/css/main.7750b40d.css.map",
-    "main.f84cad8b.js.map": "/mansi2402/react-cart.git/static/js/main.f84cad8b.js.map"
+    "main.css": "/react-cart/static/css/main.7750b40d.css",
+    "main.js": "/react-cart/static/js/main.fc6b3d38.js",
+    "index.html": "/react-cart/index.html",
+    "main.7750b40d.css.map": "/react-cart/static/css/main.7750b40d.css.map",
+    "main.fc6b3d38.js.map": "/react-cart/static/js/main.fc6b3d38.js.map"
   },
   "entrypoints": [
     "static/css/main.7750b40d.css",
-    "static/js/main.f84cad8b.js"
+    "static/js/main.fc6b3d38.js"
   ]
 }
